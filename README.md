@@ -4,9 +4,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:espindola.art@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/art_espindola/)
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtCruz&show_icons=true&theme=dracula)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtCruz&show_icons=true&theme=dracula"&include_all_commits=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtCruz&layout=compact&langs_count=168&theme=dracula">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtCruz)](https://github.comArtCruz/github-readme-stats)
 ## Tecnologias que eu uso no meu dia 💻
 
 <div style="display: inline-block">
