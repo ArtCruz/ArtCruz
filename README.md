@@ -6,6 +6,7 @@
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtCruz&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtCruz)](https://github.comArtCruz/github-readme-stats)
 ## Tecnologias que eu uso no meu dia 💻
 
 <div style="display: inline-block">
@@ -17,9 +18,10 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">                       
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-</div><br>
+<br>
+</div>
 
-Apaixonado por tecnologia, educação, finanças e por mudar a vida das pessoas através da inovação 🚀
+Apaixonado por tecnologia, educação, finanças e por mudar a vida das pessoas através da inovação
 
 ## Ultimos Projetos 🗃️
 
