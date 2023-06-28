@@ -28,5 +28,5 @@ Apaixonado por tecnologia, educação, finanças e por mudar a vida das pessoas 
 ## Ultimos Projetos 🗃️
 
 - [Brucato AutoPeças](https://github.com/filipezulian/Brucato_PIN1)
-- [FIDRAM - Horoscopo](https://github.com/filipezulian/FIDRAM_Horoscopo)
+- [FIDRAM - Horóscopo](https://github.com/filipezulian/FIDRAM_Horoscopo)
 - [WaterAid_v2.0](https://github.com/ArtCruz/WaterAid_v2.0)
